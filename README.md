@@ -1,1 +1,1 @@
-# Matrix-of-Palindromes---Multidimensional-Arrays
+# Matrix-of-Palindromes-Multidimensional-Arrays
